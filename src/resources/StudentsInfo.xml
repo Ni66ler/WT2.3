@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students-info>
+
+    <student-info>
+        <surname>зубенко</surname>
+        <name>михаил</name>
+        <patronymic>петрович</patronymic>
+        <birthday>03.02.2002</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>95100128</gradebook-number>
+        <speciality>программное обеспечения информационных технологий</speciality>
+    </student-info>
+
+    <student-info>
+        <surname>пашуков</surname>
+        <name>дмитрий</name>
+        <patronymic>дмитриевич</patronymic>
+        <birthday>11.10.2001</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>95000097</gradebook-number>
+        <speciality>вычислительные машины, системы и сети</speciality>
+    </student-info>
+
+    <student-info>
+
+        <surname>шевченко</surname>
+        <name>даниил</name>
+        <patronymic>александрович</patronymic>
+        <birthday>22.02.2002</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>95100268</gradebook-number>
+        <speciality>программное обеспечения информационных технологий</speciality>
+    </student-info>
+
+    <student-info>
+        <surname>рябов</surname>
+        <name>иван</name>
+        <patronymic>дмитриевич</patronymic>
+        <birthday>22.11.2001</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>95100123</gradebook-number>
+        <speciality>программное обеспечения информационных технологий</speciality>
+    </student-info>
+
+</students-info>
